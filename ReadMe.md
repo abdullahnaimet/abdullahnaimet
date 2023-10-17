@@ -1,17 +1,9 @@
 # Hi, I’m Abdullah Naimet, I am Learning Software Engineering:
 <p>I'm a young, aspiring Software Engineer deeply immersed in the exciting world of software development. My journey revolves around learning software engineering, and I'm particularly enthusiastic about the potential of <b>JAMStack development</b>.<br><br>In addition to JAMStack, I'm also exploring fascinating technologies like Generative AI, blockchain, and the ever-evolving Web 3.0. These innovative technologies have the potential to create intelligent, dynamic, and creative solutions.<br><br>Collaboration and effective communication are fundamental principles that guide my approach to software engineering. I highly value teamwork and constructive feedback, understanding their pivotal roles in personal and professional growth.<br><br>In my free time, I enthusiastically delve into technology-related topics, experiment with various programming languages, notably continuously undertake small projects to enhance my skills, and continuously explore new horizons.<br><br>With a growing interest in JAMStack, Generative AI, blockchain technology, and Web 3.0, I'm genuinely excited about the boundless opportunities that await me in the dynamic and ever-evolving field of software engineering.<br><br>I've chosen software engineering as my path due to my inherent passion for continuous learning. The ever-evolving tech landscape excites me, motivating me to stay at the forefront of the industry and consistently refine my skills. Embracing the dynamic nature of software development, I've made learning and growth the cornerstones of my journey.<br></p>
-
-# 📊 GitHub Stats:
 <div>
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=abdullahnaimet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p/>
-<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahnaimet&theme=dark&hide_border=false)<br/>
-<p/>
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnaimet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p />
 <div/>
 
 
